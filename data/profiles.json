@@ -1,0 +1,286 @@
+{
+  "profiles": [
+    {
+      "query": "Collector of Salem district Tamil Nadu",
+      "name": "Thiru.K.Elambahavath",
+      "role": "District Collector",
+      "cadre": "IAS",
+      "batch_year": null,
+      "district": "Salem",
+      "state": "Tamil Nadu",
+      "department": null,
+      "party": null,
+      "office_phone": "2330030",
+      "email": "collrslm[at]nic[dot]in",
+      "posted_since": "18-05-2026",
+      "sources": [
+        "https://salem.nic.in/218523-2/",
+        "https://www.tn.gov.in/district_collector.php",
+        "https://salem.nic.in/"
+      ],
+      "source_titles": [
+        "Collectors List | Salem District, Government of Tamil Nadu | India",
+        "District Collector - Government of Tamil Nadu",
+        "Salem District, Government of Tamil Nadu | An Official Web Site of ..."
+      ],
+      "raw_snippets": [
+        "COLLECTORS OF SALEM DISTRICT * Acting Collectors Sl. No. Name of the Collectors Tenure From To 176 Thiru.K.Elambahavath, I.A.S. 18-05-2026 Till date 175 Dr.",
+        "Thiru K. Elambahavath, IAS., District Collector Salem - 636001, Phone : 2330030. FAX : 0427-2417575. Email : collrslm[at]nic[dot]in · More District Contacts ..."
+      ],
+      "model_used": "meta-llama/llama-3.1-8b-instruct",
+      "fetched_at": "2026-05-31T13:55:23.397566",
+      "verified": true,
+      "bookmarked": false,
+      "flagged": false,
+      "note": "",
+      "additional_info": null
+    },
+    {
+      "query": "Tamil Nadu Chief Minister 2025",
+      "name": "C. Joseph Vijay",
+      "role": "Chief Minister",
+      "cadre": null,
+      "batch_year": null,
+      "district": null,
+      "state": "Tamil Nadu",
+      "department": null,
+      "party": null,
+      "office_phone": null,
+      "email": null,
+      "posted_since": null,
+      "additional_info": null,
+      "sources": [
+        "https://www.tn.gov.in/minister_list.php",
+        "https://en.wikipedia.org/wiki/Chief_Minister_of_Tamil_Nadu",
+        "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-government-formation-know-the-tvk-ministers-in-c-joseph-vijays-cabinet/article70961530.ece"
+      ],
+      "source_titles": [
+        "Council of Ministers (TN) - Government of Tamil Nadu",
+        "Chief Minister of Tamil Nadu - Wikipedia",
+        "TVK-led Tamil Nadu government: full list of 35 Ministers - The Hindu"
+      ],
+      "raw_snippets": [
+        "",
+        "The chief minister of Tamil Nadu is the head of government of the Indian state of Tamil Nadu. In accordance with the Constitution of India, the governor is ..."
+      ],
+      "model_used": "meta-llama/llama-3.1-8b-instruct",
+      "fetched_at": "2026-05-30T20:27:28.732458",
+      "verified": true,
+      "bookmarked": false,
+      "flagged": false,
+      "note": ""
+    },
+    {
+      "query": "Collector of Erode district Tamil Nadu",
+      "name": "S.KANDASAMY",
+      "role": "District Collector",
+      "cadre": "IAS",
+      "batch_year": "1975",
+      "district": "Erode",
+      "state": "Tamil Nadu",
+      "department": null,
+      "party": null,
+      "office_phone": null,
+      "email": "collrerd@nic.in",
+      "posted_since": "27.06.2025",
+      "additional_info": null,
+      "sources": [
+        "https://erode.nic.in/collector-profile/",
+        "https://www.facebook.com/100068947788165/posts/on-27062025-thiru-s-kandasamy-ias-officially-assumed-charge-as-the-district-coll/1036276748680575/",
+        "https://www.instagram.com/p/DLZgAtrBTvn/?hl=en"
+      ],
+      "source_titles": [
+        "Collector Profile | Erode District | India",
+        "District Collector Erode - Facebook",
+        "District Collector, Erode on Instagram: \"On 27.06.2025, Thiru. S ..."
+      ],
+      "raw_snippets": [
+        "Thiru. S.KANDASAMY IAS has assumed as the District Collector, Erode on 27.06.2025. Father Name: Sankarasubbu. Mother Name : Mallika. Date of Birth: 18.04.1975.",
+        "On 27.06.2025, Thiru. S. Kandasamy I.A.S., officially assumed charge as the District Collector of Erode district. #Erode #ErodeCollectorOffice # ..."
+      ],
+      "model_used": "meta-llama/llama-3.1-8b-instruct",
+      "fetched_at": "2026-05-30T20:29:56.474475",
+      "verified": true,
+      "bookmarked": true,
+      "flagged": false,
+      "note": "details are up to date",
+      "note_at": "2026-05-30T15:00:21.335Z"
+    },
+    {
+      "query": "Superintendent of Police SP Madurai Tamil Nadu",
+      "name": "B.K. Arvind",
+      "role": "Superintendent of Police",
+      "cadre": "IPS",
+      "batch_year": null,
+      "district": "Madurai",
+      "state": "Tamil Nadu",
+      "department": null,
+      "party": null,
+      "office_phone": null,
+      "email": null,
+      "posted_since": null,
+      "additional_info": null,
+      "sources": [
+        "https://www.erolls.tn.gov.in/blo/SPs.aspx",
+        "https://www.thehindu.com/news/cities/Madurai/bk-arvind-takes-charge-as-madurai-sp/article67907959.ece",
+        "https://madurai.nic.in/about-district/whos-who/"
+      ],
+      "source_titles": [
+        "SPs & CoP (Last Updated on : 05/03/2025)",
+        "B.K. Arvind takes charge as Madurai SP - The Hindu",
+        "Who's Who | Madurai District, Government of Tamilnadu | India"
+      ],
+      "raw_snippets": [
+        "Arvind I.P.S.,, Superintendent of Police, Madurai, Alagar Kovil Road ... Superintendent of Police Office, Tirupathur, Tirupathur District, Tamil Nadu 635601 ...",
+        "Newly appointed SP B.K. Arvind takes charge in Madurai district after transfer of Dongare Pravin Umesh."
+      ],
+      "model_used": "meta-llama/llama-3.1-8b-instruct",
+      "fetched_at": "2026-05-31T13:26:44.912674",
+      "verified": true,
+      "bookmarked": false,
+      "flagged": false,
+      "note": ""
+    },
+    {
+      "query": "Collector of Madurai district Tamil Nadu",
+      "name": "K.J. Praveen Kumar",
+      "role": "District Collector",
+      "cadre": "IAS",
+      "batch_year": null,
+      "district": "Madurai",
+      "state": "Tamil Nadu",
+      "department": null,
+      "party": null,
+      "office_phone": "0452-2531110",
+      "email": "collrmdu[at]nic[dot]in",
+      "posted_since": "June 25th 2025",
+      "additional_info": "Transferred and replaced by P. Akash",
+      "sources": [
+        "https://madurai.nic.in/about-district/whos-who/",
+        "https://www.tn.gov.in/district_collector.php",
+        "https://madurai.nic.in/mr-k-j-praveen-kumar-has-assumed-charge-as-the-new-district-collector-of-madurai-district/"
+      ],
+      "source_titles": [
+        "Who's Who | Madurai District, Government of Tamilnadu | India",
+        "District Collector - Government of Tamil Nadu",
+        "Mr.K.J. Praveen Kumar has assumed charge as the new district ..."
+      ],
+      "raw_snippets": [
+        "Shri K J Praveenkumar I.A.S.,, District Collector, Collectorate Madurai, 0452-2531110. collrmdu[at]nic[dot]in ; Thiru K. ANBALAGAN, District Revenue Officer ...",
+        "Thiru K.J. Praveenkumar, IAS. District Collector Madurai - 625001, Phone : 2531110 PABX-201. FAX : 0452-2530925. Email : collrmdu[at]nic[dot]in · More District ..."
+      ],
+      "model_used": "meta-llama/llama-3.1-8b-instruct",
+      "fetched_at": "2026-05-31T13:27:04.910586",
+      "verified": true,
+      "bookmarked": false,
+      "flagged": false,
+      "note": ""
+    },
+    {
+      "query": "Collector of Coimbatore",
+      "name": "Pavankumar G Giriyappanavar",
+      "role": "District Collector",
+      "cadre": null,
+      "batch_year": null,
+      "district": "Coimbatore",
+      "state": "Tamil Nadu",
+      "department": null,
+      "party": null,
+      "office_phone": "2301114",
+      "email": null,
+      "posted_since": null,
+      "additional_info": null,
+      "sources": [
+        "https://coimbatore.nic.in/profile-of-collector/",
+        "https://www.tn.gov.in/district_collector.php",
+        "https://www.facebook.com/CollectorCoimbatore/"
+      ],
+      "source_titles": [
+        "Profile of District Collector - Coimbatore District",
+        "District Collector - Government of Tamil Nadu",
+        "Collector Coimbatore (@CollectorCoimbatore) - Facebook"
+      ],
+      "raw_snippets": [
+        "Profile of District Collector. Collector Coimbatore District 2025. Mr. Pavankumar G Giriyappanavar I.A.S,. District Collector, Coimbatore.",
+        "Coimbatore. Thiru Pavankumar G Giriyappanavar, IAS., District Collector Coimbatore - 641018, Phone : 2301114. FAX : 0422-2222630"
+      ],
+      "model_used": "meta-llama/llama-3.1-8b-instruct",
+      "fetched_at": "2026-05-31T13:39:33.458866",
+      "verified": true,
+      "bookmarked": false,
+      "flagged": false,
+      "note": ""
+    },
+    {
+      "query": "Collector of Tirunelveli district Tamil Nadu",
+      "name": "Dr.R.Sukumar",
+      "role": "District Collector",
+      "cadre": "IAS",
+      "batch_year": null,
+      "district": "Tirunelveli",
+      "state": "Tamil Nadu",
+      "department": null,
+      "party": null,
+      "office_phone": "0462-2501032",
+      "email": "collrtnv@nic.in",
+      "posted_since": "FEB 02 AN 2023",
+      "additional_info": null,
+      "sources": [
+        "https://tirunelveli.nic.in/list-of-collectors/",
+        "https://www.tn.gov.in/district_collector.php",
+        "https://www.thehindu.com/news/cities/Madurai/r-sukumar-takes-charge-as-tirunelveli-collector/article69196548.ece"
+      ],
+      "source_titles": [
+        "List Of Collectors | Tirunelveli District, Government of Tamil Nadu",
+        "District Collector - Government of Tamil Nadu",
+        "R. Sukumar takes charge as Tirunelveli Collector - The Hindu"
+      ],
+      "raw_snippets": [
+        "Collector's of Tirunelveli District District Bifurcation – 22.11 ... 2025 222 Dr.B.M.SENTHILKUMAR, B.V.Sc, I/C FEB 02 AN 2023 FEB 05 FN 2023 221 ...",
+        "Dr R. Sukumar, IAS., District Collector Tirunelveli - 627009, Phone : 2501032. FAX : 0462-2500244. Email : collrtnv[at]nic[dot]in · More District Contacts ..."
+      ],
+      "model_used": "meta-llama/llama-3.1-8b-instruct",
+      "fetched_at": "2026-05-31T14:20:23.604822",
+      "verified": true,
+      "bookmarked": false,
+      "flagged": false,
+      "note": ""
+    },
+    {
+      "query": "Collector of Vellore district Tamil Nadu",
+      "name": "Tmt.V.R.Subbulaxmi,I.A.S.",
+      "role": "District Collector",
+      "cadre": "IAS",
+      "batch_year": null,
+      "district": "Vellore",
+      "state": "Tamil Nadu",
+      "department": null,
+      "party": null,
+      "office_phone": "2252345",
+      "email": "collrvel[at]nic[dot]in",
+      "posted_since": "29.01.2024",
+      "additional_info": null,
+      "sources": [
+        "https://vellore.nic.in/list-of-collectors/",
+        "https://www.tn.gov.in/district_collector.php",
+        "https://www.thehindu.com/news/national/tamil-nadu/new-collectors-for-vellore-ranipet-and-tiruvannamalai-districts/article71038084.ece"
+      ],
+      "source_titles": [
+        "LIST OF COLLECTORS | Vellore District, Government of Tamil Nadu",
+        "District Collector - Government of Tamil Nadu",
+        "New Collectors for Vellore, Ranipet, and Tiruvannamalai districts"
+      ],
+      "raw_snippets": [
+        "S.No Name Year 146 Tmt.V.R.Subbulaxmi,I.A.S. 29.01.2024 To Till date 145 Thiru. P.Kumaravel PandianI.A.S. 16.06.2021 To 28.01.2024 144 Thiru.",
+        "Tmt V.R Subbulaxmi IAS., District Collector Vellore - 632009, Phone : 2252345. FAX : 0416-2253034. Email : collrvel[at]nic[dot]in · More District Contacts ..."
+      ],
+      "model_used": "meta-llama/llama-3.1-8b-instruct",
+      "fetched_at": "2026-05-31T14:20:37.488924",
+      "verified": true,
+      "bookmarked": false,
+      "flagged": false,
+      "note": ""
+    }
+  ],
+  "last_updated": "2026-05-31T08:50:38.011Z"
+}
